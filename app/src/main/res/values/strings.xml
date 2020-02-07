@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">MyFristProject</string>
+    <string name="konten_berita">
+        Ini isi konten berita
+        Panjang sih, tapi gak papa lah
+        kalo mau baca mah
+        iseng-iseng ajjh buat yang gabut
+    </string>
+    <string name="iseng">isibya iseng</string>
+</resources>
